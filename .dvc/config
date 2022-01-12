@@ -1,4 +1,6 @@
 [core]
     remote = remote_storage
+[cache]
+    dir = ../../dvc_shared_cache
 ['remote "remote_storage"']
     url = /Users/laure/Documents/pythonRepos/dvc_remote
